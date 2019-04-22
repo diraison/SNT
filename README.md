@@ -1,4 +1,4 @@
-# Sciences Numeriques et Technologie
+# Sciences Numériques et Technologie
 
 Ce site couvre l'ensemble des 7 thèmes du programme de SNT :
 
